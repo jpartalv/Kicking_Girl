@@ -1,0 +1,17 @@
+{
+  "name": "com.psistudios.kickinggirl",
+  "version": "1.0.1",
+  "displayName": "Kicking Girl Example",
+  "description": "Custom package example",
+  "unity": "2020.1",
+
+ "keywords": [
+    "kickinggirl",
+    "demo",
+    "package"
+  ],
+  "author": {
+    "name": "Jean Pierre Arteaga",
+    "email": "jpartalv@hotmail.com"
+  }
+}
